@@ -13,6 +13,10 @@ _pronouns: He/Him/His_
 
 ## ⚡ Facts about me: 
 - I'm a very good basketball player, I am 6'6" and the only ComSci major that I know off who can dunk.
-- I co-founded a company with my college friends WAFER (World Aquifer Forecasting & Research) to spread environmental awareness and do research to do solid contigency planning in locations that are suffering from the changing environment.
+- I co-founded a company with my college friends WAFER (World Aquifer Forecasting Engine & Research) to spread environmental awareness and do research to enable solid contigency planning in locations that are suffering from the changing environment.
 - I love nature and like to hike, I also like to stay in shape and workout early in the morning 3 times a week.
+
+## Contact Me:
+- 📫 You can reach me at: 212 970 7786 or ibrahimabbasofficial@gmail.com
+
 -->
