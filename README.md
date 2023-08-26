@@ -6,8 +6,8 @@ _pronouns: He/Him/His_
 
 - 🔭 I’m currently (by myself) voluntarily working on a private project for a construction company based in New York. For a quick review: In this project I am automating boring work than involves manually downloading documents from a website, extracting data from them, generating reports and sending emails to clients. The techstack includes: MS Azure, MS Graph API, Python, Selenium etc.
 - 🌱 I’m currently learning better application design techniques, software version management and trying to get better at cloud services.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m also looking for a job to start after I graduate in May, 2024
+- 👯 I’m looking to collaborate on anything that automates a task and makes someones life a bit easier.
+- 🤔 I’m also looking for a job to start after I graduate in May, 2024.
 - 💬 Ask me about getting stuck in a coding problem and how to find your way out of it.
 
 
