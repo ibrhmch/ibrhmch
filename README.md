@@ -17,6 +17,4 @@ _pronouns: He/Him/His_
 - I love nature and like to hike, I also like to stay in shape and workout early in the morning 3 times a week.
 
 ## Contact Me:
-- 📫 You can reach me at: 212 970 7786 or or (email me)[ibrahimabbasofficial@gmail.com]
-
--->
+- 📫 You can reach me at: (212 970 7786)[tel:2129707786]] or (email me)[ibrahimabbasofficial@gmail.com]
