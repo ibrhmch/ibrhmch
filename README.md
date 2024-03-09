@@ -13,7 +13,7 @@ _pronouns: He/Him/His_
 
 ## ⚡ Facts about me: 
 - I have the same dimensions as Michael Jordan, I have a wingspan off 6'11" and the only ComSci major that I know off who can dunk.
-- I co-founded a company with my college friends WAFER (World Aquifer Forecasting Engine & Research) to spread environmental awareness and do research to enable solid contigency planning in locations that are suffering from the changing environment.
+- I started an organization with my college friends WAFER (World Aquifer Forecasting Engine & Research) to spread environmental awareness and do research to enable solid contigency planning in locations that are suffering from the changing environment.
 - I love nature and like to hike, I also like to stay in shape and workout early in the morning 3 times a week.
 
 ## Contact Me:
