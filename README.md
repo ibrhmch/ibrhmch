@@ -17,4 +17,4 @@ _pronouns: He/Him/His_
 - I love nature and sports.
 
 ## Contact Me:
-- 📫 You can reach me at: [212 970 7786](tel:2129707786) or [email me](mailto:chibrahimofficial@gmail.com)
+- 📫 You can reach me at: [212 970 7786](tel:2129707786) or [email me](mailto:chmohammadibrahim@gmail.com)
