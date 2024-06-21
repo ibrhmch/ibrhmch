@@ -23,7 +23,7 @@
 
 - I love trees.
 
-Note: Most of my repositories are private. If you want to discuss something that is not public, feel free to reach out.
+`Note: Most of my repositories are private. If you want to discuss something that is not public, feel free to reach out.`
 
 ## Contact Me:
 - You can reach me 24/7 at: [212 970 7786](tel:2129707786) or [email me](mailto:chmohammadibrahim@gmail.com)
