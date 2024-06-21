@@ -1,20 +1,25 @@
-### Hello 👋 I'm Ibrahim
+### Hello I'm Ibrahim
+###### _pronouns: He/Him/His_
 
-_pronouns: He/Him/His_
+- I like to work with `Swift`, `JavaScript` and `Python`.
+
+- I have published an iOS app on the Appstore [NY Violations](https://apps.apple.com/us/app/ny-violations/id6479378112).
+
+- My favorite frameworks are `SwiftUI` and `React`.
+
+- I also enjoy embedded development and engineered a [Smart Algae Reactor](https://www.colorado.edu/cs/2024/04/22/automating-algae-computer-science-capstone-melds-digital-and-physical-skills).
+
+- I am currently working as the only software engineer for a firm in New York. I have developed and maintained a client-facing email alerts service, built their new React SPA as part a marketing campaign and at the same time I am also designing a iOS application to for them to track and digitize project work, like building inspections and pre-tests. If you want to learn more you should visit my [Linkedin](https://www.linkedin.com/in/ibrhmch/).
+
+- I love reading books on software engineering such as `The Pragmatic Programmer` and like to learn different application design techniques.
+
+- When I am not programming, I like to study different periods in World history, play basketball and catch up with my friends.
 
 
-
-- 🔭 I’m currently voluntarily working as the only developer on a private project for a Fire Alarm Systems company based in New York. For a quick review: In this project I am automating boring work that involves manually downloading documents from a website, extracting data from them, generating reports and sending emails to clients. The techstack includes: MS Azure, MS Graph API, Python, Selenium etc.
-- 🌱 I’m currently learning application design techniques, software version management and cloud services.
-- 👯 I’m looking to collaborate on anything that automates a task and makes someones life a bit easier.
-- 🤔 I’m also looking for a job to start after I graduate in May, 2024.
-- 💬 Ask me about getting stuck in a coding problem and how to find your way out of it.
-
-
-## ⚡ Facts about me: 
-- I have the same body dimensions as Michael Jordan, I have a wingspan off 6'11" and the only ComSci major that I know off who can dunk.
-- I started an organization with my college friends WAFER (World Aquifer Forecasting Engine & Research) to spread environmental awareness and do research to enable solid contigency planning in locations that are suffering from the changing environment.
-- I love nature and sports.
+#### Facts about me: 
+- I share my body dimensions with Michael Jordan and yes, I can dunk.
+- I started WAFER (World Aquifer Forecasting Engine & Research) with my college friends to spread environmental awareness and do open-source environmental research.
+- I love trees.
 
 ## Contact Me:
-- 📫 You can reach me at: [212 970 7786](tel:2129707786) or [email me](mailto:chmohammadibrahim@gmail.com)
+- You can reach me 24/7 at: [212 970 7786](tel:2129707786) or [email me](mailto:chmohammadibrahim@gmail.com)
