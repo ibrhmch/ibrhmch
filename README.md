@@ -13,6 +13,8 @@
 
 - I love reading books on software engineering such as `The Pragmatic Programmer` and like to learn different application design techniques.
 
+- I have a Master of Science degree in Computer Science from University of Colorado Boulder.
+
 - When I am not programming, I like to study different periods in World history, play basketball and catch up with my friends.
 
 
@@ -23,7 +25,7 @@
 
 - I love trees.
 
-`Note: Most of my repositories are private. If you want to discuss something that is not public, feel free to reach out.`
+`Note` Most of my repositories are private. If you want to discuss something that is not public, feel free to reach out.
 
 ## Contact Me:
 - You can reach me 24/7 at: [212 970 7786](tel:2129707786) or [email me](mailto:chmohammadibrahim@gmail.com)
