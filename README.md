@@ -3,11 +3,12 @@
 
 - I like to work with `Swift`, `JavaScript`, `Python` and `C++`.
 
-- I have published an iOS app on the Appstore [NY Violations](https://apps.apple.com/us/app/ny-violations/id6479378112).
+- I have published an iOS app on the Appstore <a href="https://apps.apple.com/us/app/ny-violations/id6479378112" target="_blank">NY Violations</a>
+.
 
 - My favorite frameworks are `SwiftUI` and `React`.
 
-- I also enjoy embedded development and engineered a [Smart Algae Reactor](https://www.colorado.edu/cs/2024/04/22/automating-algae-computer-science-capstone-melds-digital-and-physical-skills).
+- I also enjoy embedded development and engineered a <a href="https://www.colorado.edu/cs/2024/04/22/automating-algae-computer-science-capstone-melds-digital-and-physical-skills" target="_blank">Smart Algae Reactor</a>.
 
 - I am currently working as the only software engineer for a firm in New York. I have developed and maintained a client-facing email alerts service, built their new React SPA as part a marketing campaign and at the same time I am also designing a iOS application to for them to track and digitize project work, like building inspections and pre-tests. If you want to learn more you should visit my [Linkedin](https://www.linkedin.com/in/ibrhmch/).
 
