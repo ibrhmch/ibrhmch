@@ -1,7 +1,7 @@
 ### Hello I'm Ibrahim
 ###### _pronouns: He/Him/His_
 
-- I like to work with `Swift`, `JavaScript` and `Python`.
+- I like to work with `Swift`, `JavaScript`, `Python` and `C++`.
 
 - I have published an iOS app on the Appstore [NY Violations](https://apps.apple.com/us/app/ny-violations/id6479378112).
 
