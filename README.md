@@ -15,10 +15,10 @@
 
 - I have a Master of Science degree in Computer Science from University of Colorado Boulder.
 
+#### Conversation Starters: 
+
 - When I am not programming, I like to study different periods in World history, play basketball and catch up with my friends.
 
-
-#### Facts about me: 
 - I share my body dimensions with Michael Jordan and yes, I can dunk.
 
 - I started WAFER (World Aquifer Forecasting Engine & Research) with my college friends to spread environmental awareness and do open-source environmental research.
