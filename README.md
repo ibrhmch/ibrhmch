@@ -9,7 +9,7 @@
 
 - I also enjoy embedded development and led the engineering team to develop a [Smart Algae Reactor](https://www.colorado.edu/cs/2024/04/22/automating-algae-computer-science-capstone-melds-digital-and-physical-skills).
 
-- I am currently working as the only software engineer for a firm in New York. I have developed and maintained a client-facing email alerts service, built their new React SPA as part a marketing campaign and at the same time I am also designing a iOS application to for them to track and digitize project work, like building inspections and pre-tests. If you want to learn more you should visit my [Linkedin](https://www.linkedin.com/in/ibrhmch/).
+- I am currently working as the only software engineer for a firm in New York. I have developed and maintained a client-facing email alerts service, built their new React SPA as part of a marketing campaign and at the same time I am also designing an iOS application for them to track and digitize project work, like building inspections and pre-tests. If you want to learn more you should visit my [Linkedin](https://www.linkedin.com/in/ibrhmch/).
 
 - I love reading books on software engineering such as `The Pragmatic Programmer` and like to learn different application design techniques.
 
