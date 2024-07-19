@@ -3,7 +3,7 @@
 
 - I like to work with `Swift`, `JavaScript`, `Python` and `C++`.
 
-- I have published an iOS app on the Appstore [NY Violations](https://apps.apple.com/us/app/ny-violations/id6479378112).
+- I have published an iOS app on the Appstore [NYC Violations](https://apps.apple.com/us/app/nyc-violations/id6529524235).
 
 - My favorite frameworks are `SwiftUI` and `React`.
 
